@@ -59,13 +59,6 @@ Typical environments: hospital wards, outpatient clinics, emergency rooms, and h
 **Primary Platform:** Android
 **Future Support:** iOS (planned)
 
-**Why Flutter?**
-
-* Cross-platform, fast development
-* Clean and modern UI components
-* Strong community support
-* Easy integration with Python-based AI backend via APIs
-
 ---
 
 ### **g. Features & Functionalities**
@@ -136,14 +129,7 @@ NurseAssist fills this gap by offering a comprehensive, AI-driven, affordable to
 
 ---
 
-### **Security Considerations**
 
-* JWT / Firebase Auth
-* HTTPS encrypted communication
-* Role-based access (nurses only)
-* Compliance with confidentiality standards
-
----
 
 ### **a. Platform Compatibility**
 
@@ -186,7 +172,6 @@ Smooth navigation ensures nurses can work efficiently even under pressure.
 * Hospital-safe color scheme (blue/white/green)
 * Consistent form fields and button styles
 * Standard spacing and card components
-* Uniform iconography across all pages
 
 ---
 
